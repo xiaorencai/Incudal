@@ -50,7 +50,7 @@ https://github.com/0xdabiaoge/singbox-lite
 然后回车回主菜单输入3回车
 <img width="1143" height="128" alt="image" src="https://github.com/user-attachments/assets/a7c0dd08-1718-400b-8da4-cfd1da5d5c9f" />
 
-选择右键复制这个链接，打开v2rayN，点击左上角配置项，点击从剪切板导入分享链接
+选择右键复制这个链接，打开[v2rayN](https://github.com/2dust/v2rayN)，点击左上角配置项，点击从剪切板导入分享链接
 <img width="231" height="558" alt="image" src="https://github.com/user-attachments/assets/5d9620c3-64f1-405d-a8fe-2bbf4cf79070" />
 
 右键设为活动
