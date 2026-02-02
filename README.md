@@ -32,7 +32,9 @@ https://github.com/0xdabiaoge/singbox-lite
 
 ## 点击复制
 <img width="864" height="230" alt="image" src="https://github.com/user-attachments/assets/da3b7e79-3c58-45e0-ac6c-8719a6740080" />  
-
+```
+(curl -LfsS https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -o /usr/local/bin/sb || wget -q https://raw.githubusercontent.com/0xdabiaoge/singbox-lite/main/singbox.sh -O /usr/local/bin/sb) && chmod +x /usr/local/bin/sb && sb
+```  
 ## 粘贴到终端然后回车，出现以下即为成功
 <img width="414" height="764" alt="image" src="https://github.com/user-attachments/assets/f6534bbb-dadf-446f-84c9-d01d08a9e943" />  
 
