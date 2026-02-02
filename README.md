@@ -16,7 +16,9 @@ https://incudal.com/  `AFF-1348-UGZYV8BN` 9.5折循环优惠，欢迎买鸡，�
 <img width="513" height="561" alt="image" src="https://github.com/user-attachments/assets/d0db6f82-4ce1-48c3-9087-0a010792cc84" />  
 
 首先输入这串代码,右键粘贴到终端然后回车
-`apt update -y  && apt install -y curl wget sudo`  
+```
+apt update -y  && apt install -y curl wget sudo
+```
 
 出现以下即为成功
 <img width="1151" height="482" alt="image" src="https://github.com/user-attachments/assets/b097955f-dfd7-47b0-a549-214634506ddb" />  
